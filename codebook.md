@@ -1,5 +1,5 @@
 ##Code Book for Course Project
-#____________________________________________________________________________________________
+#_____________________________
 
 The course Project submitted is not finished, I just was able to finish the steps 1, 3 and 4.
 Remember to unzip the files in the right location:
